@@ -2,6 +2,7 @@
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/654b381c520b534886904524?variant=dark)](https://roadmap.sh/befriend?u=654b381c520b534886904524)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unix-waltz&label=Profile%20views&color=0e75b6&style=flat" alt="unix-waltz" /> </p>
