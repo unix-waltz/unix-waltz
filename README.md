@@ -5,5 +5,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unix-waltz&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unix-waltz&layout=compact&bg_color=000000&text_color=aaaaaa&icon_color=aaaaaa&hide_border=true)
+
 
