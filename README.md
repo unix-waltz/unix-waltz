@@ -5,7 +5,7 @@
     <img src="https://api.roadmap.sh/v1-badge/wide/654b381c520b534886904524?variant=dark" alt="roadmap.sh" style="height: 100%; margin-right: 20px;">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=unix-waltz" alt="Anurag's GitHub stats" style="height: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=unix-waltz" alt="Anurag's GitHub stats" style="height: 90%;">
   </a>
 </div>
 
