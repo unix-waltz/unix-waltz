@@ -3,5 +3,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unix-waltz)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unix-waltz&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uniz-waltz)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=unix-waltz)](https://github.com/anuraghazra/github-readme-stats)
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/654b381c520b534886904524?variant=dark)](https://roadmap.sh/befriend?u=654b381c520b534886904524)
