@@ -2,5 +2,5 @@
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/654b381c520b534886904524?variant=dark)](https://roadmap.sh/befriend?u=654b381c520b534886904524)
 <br>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unix-waltz)](https://github.com/anuraghazra/github-readme-stats)
 
